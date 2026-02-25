@@ -1,0 +1,5002 @@
+[
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Traffic signal not working at junction",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Main road blocked due to fallen tree",
+    "label": 1
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Water leakage near park causing flooding",
+    "complaint2": "Sewage water overflowing beside the park",
+    "label": 1
+  },
+  {
+    "complaint1": "Public toilet unhygienic in Majestic",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Open manhole near school entrance",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Sewage overflow in Indiranagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Open manhole near school entrance",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Streetlight malfunction in front of bus depot",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Waste pile-up near Rajajinagar 5th block",
+    "label": 0
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Water leakage near park causing flooding",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Uncollected garbage causing smell in Rajajinagar",
+    "label": 1
+  },
+  {
+    "complaint1": "Deep pothole near signal causing accidents",
+    "complaint2": "Vehicles skidding due to pothole near traffic signal",
+    "label": 1
+  },
+  {
+    "complaint1": "Garbage not collected from 2 days in Rajajinagar",
+    "complaint2": "Sewage overflow in Indiranagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Overhead electric wire hanging dangerously",
+    "complaint2": "Live wire dangling above road, risky",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  },
+  {
+    "complaint1": "Streetlight not working near bus stand",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Overhead electric wire hanging dangerously",
+    "label": 1
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Strong gas smell in Koramangala locality",
+    "label": 1
+  },
+  {
+    "complaint1": "Broken security gate at apartment entrance",
+    "complaint2": "Illegal hoardings on streets, causing visibility issues",
+    "label": 1
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Waste pile-up near Rajajinagar 5th block",
+    "complaint2": "Garbage not collected from 2 days in Rajajinagar",
+    "label": 0
+  },
+  {
+    "complaint1": "Tree fallen blocking main road",
+    "complaint2": "Gas leak reported in Koramangala area",
+    "label": 0
+  },
+  {
+    "complaint1": "Gas leak reported in Koramangala area",
+    "complaint2": "Deep pothole near signal causing accidents",
+    "label": 0
+  }
+]

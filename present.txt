@@ -1,0 +1,39 @@
+frontend:
+cd
+npm install
+npm run dev
+
+backend:
+cd
+npm install
+npm run dev
+
+to run models:
+.\venv\Scripts\activate
+pip install -r requirements.txt
+urgency:    uvicorn app.main:app --reload --port 8002
+duplicate:  uvicorn app.main:app --reload --port 8001
+
+
+Test Cases:
+
+Test Case 1: Clear Duplicate
+Title: "Streetlight Fault"
+Description: "The streetlight close to the train station entrance is flickering and not functioning."
+Location: "Warangal Railway Station"
+
+Test Case 2: Similar, but not a duplicate (LU)
+Title: "Park Lighting Issue"
+Description: "Many streetlights in the public park are out, making it unsafe after dark."
+Location: "Public Park, Warangal"
+
+Test Case 3: Not a Duplicate (HU)
+Title: "Major Water Leak"
+Description: "A large pipe has burst on Main Street, causing significant flooding and road damage."
+Location: "Main Street, Warangal City"
+
+
+
+Pipe Leakage
+Pipe leakage near my house.
+55-2-157, bank colony 2, bheemaram
