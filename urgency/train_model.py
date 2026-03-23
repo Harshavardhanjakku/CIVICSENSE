@@ -1,54 +1,184 @@
-# train_model.py
+import os
 import json
-import re
+import time
+import logging
+from datetime import datetime
+
+import numpy as np
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.preprocessing import LabelEncoder
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, confusion_matrix
-import joblib  
+import joblib
 
-# Step 1: Load dataset
-with open('data/complaints.json', 'r') as f:
-    data = json.load(f)
+from sklearn.model_selection import train_test_split, StratifiedKFold, cross_val_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, accuracy_score
 
-# Convert to DataFrame
-df = pd.DataFrame(data)
+from sentence_transformers import SentenceTransformer
 
-# Step 2: Text cleaning function
-def clean_text(text):
-    text = text.lower()  # lowercase
-    text = re.sub(r'[^a-z0-9\s]', '', text)  # remove special characters
-    text = re.sub(r'\s+', ' ', text).strip()  # remove extra spaces
-    return text
 
-df['clean_complaint'] = df['complaint'].apply(clean_text)
+# ---------------- LOGGING SETUP ----------------
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
-# Step 3: Encode labels
-le = LabelEncoder()
-df['urgency_label'] = le.fit_transform(df['urgency'])  # High=2, Medium=1, Low=0
+def log(msg):
+    logging.info(msg)
 
-# Step 4: Feature extraction using TF-IDF
-tfidf = TfidfVectorizer(max_features=5000)
-X = tfidf.fit_transform(df['clean_complaint'])
-y = df['urgency_label']
 
-# Step 5: Train-test split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# ---------------- CONFIG ----------------
+RANDOM_STATE = 42
+MODEL_DIR = "models"
+EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 
-# Step 6: Train model
-model = RandomForestClassifier(n_estimators=200, random_state=42)
-model.fit(X_train, y_train)
 
-# Step 7: Evaluation
-y_pred = model.predict(X_test)
-print("Classification Report:\n", classification_report(y_test, y_pred, target_names=le.classes_))
-print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
+# ---------------- STEP 1: LOAD DATA ----------------
+def load_data(path="data/complaints.json"):
+    log("Loading dataset...")
+    start = time.time()
 
-# Step 8: Save model and vectorizer
-joblib.dump(model, 'models/urgency_model.pkl')
-joblib.dump(tfidf, 'models/tfidf_vectorizer.pkl')
-joblib.dump(le, 'models/label_encoder.pkl')
+    with open(path, "r") as f:
+        data = json.load(f)
 
-print("Model and vectorizer saved in 'models/' folder.")
+    df = pd.DataFrame(data)
+
+    log(f"Loaded {len(df)} records in {time.time() - start:.2f}s")
+    return df
+
+
+# ---------------- STEP 2: PREPROCESS ----------------
+def preprocess(df):
+    log("Preprocessing text...")
+
+    # Minimal cleaning (important for embeddings)
+    df["complaint"] = df["complaint"].astype(str).str.strip()
+
+    return df
+
+
+# ---------------- STEP 3: EMBEDDINGS ----------------
+def load_embedding_model():
+    log(f"Loading embedding model: {EMBEDDING_MODEL_NAME}")
+    return SentenceTransformer(EMBEDDING_MODEL_NAME)
+
+
+def embed_text(model, texts, batch_size=32):
+    log("Generating embeddings...")
+    start = time.time()
+
+    embeddings = model.encode(
+        texts,
+        batch_size=batch_size,
+        show_progress_bar=True,
+        convert_to_numpy=True
+    )
+
+    log(f"Embeddings generated in {time.time() - start:.2f}s")
+    return embeddings
+
+
+# ---------------- STEP 4: TRAIN MODEL ----------------
+def train_model(X, y):
+    log("Training model with cross-validation...")
+
+    model = LogisticRegression(
+        max_iter=1000,
+        class_weight="balanced",
+        random_state=RANDOM_STATE
+    )
+
+    # Cross-validation
+    skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=RANDOM_STATE)
+
+    cv_scores = cross_val_score(
+        model, X, y,
+        cv=skf,
+        scoring="f1_weighted"
+    )
+
+    log(f"CV F1 Scores: {cv_scores}")
+    log(f"Mean CV F1: {np.mean(cv_scores):.4f}")
+
+    # Final training
+    model.fit(X, y)
+
+    return model
+
+
+# ---------------- STEP 5: EVALUATION ----------------
+def evaluate_model(model, X_test, y_test, label_names):
+    log("Evaluating model...")
+
+    y_pred = model.predict(X_test)
+
+    accuracy = accuracy_score(y_test, y_pred)
+
+    print("\n===== RESULTS =====")
+    print(f"Accuracy: {accuracy:.4f}")
+
+    print("\n===== CLASSIFICATION REPORT =====")
+    print(classification_report(y_test, y_pred, target_names=label_names))
+
+
+# ---------------- STEP 6: SAVE ARTIFACTS ----------------
+def save_artifacts(model, embedding_model_name):
+    log("Saving artifacts...")
+
+    os.makedirs(MODEL_DIR, exist_ok=True)
+
+    joblib.dump(model, os.path.join(MODEL_DIR, "urgency_model.pkl"))
+
+    # Save metadata (important for reload)
+    metadata = {
+        "embedding_model": embedding_model_name
+    }
+
+    joblib.dump(metadata, os.path.join(MODEL_DIR, "metadata.pkl"))
+
+    log("Artifacts saved successfully.")
+
+
+# ---------------- MAIN PIPELINE ----------------
+def main():
+    start_total = time.time()
+
+    # Load
+    df = load_data()
+
+    # Preprocess
+    df = preprocess(df)
+
+    # Encode labels
+    labels = df["urgency"].astype("category")
+    y = labels.cat.codes
+    label_names = list(labels.cat.categories)
+
+    # Split BEFORE embeddings (avoid leakage)
+    X_train_text, X_test_text, y_train, y_test = train_test_split(
+        df["complaint"],
+        y,
+        test_size=0.2,
+        stratify=y,
+        random_state=RANDOM_STATE
+    )
+
+    # Load embedding model
+    embedding_model = load_embedding_model()
+
+    # Generate embeddings
+    X_train = embed_text(embedding_model, X_train_text.tolist())
+    X_test = embed_text(embedding_model, X_test_text.tolist())
+
+    # Train
+    model = train_model(X_train, y_train)
+
+    # Evaluate
+    evaluate_model(model, X_test, y_test, label_names)
+
+    # Save
+    save_artifacts(model, EMBEDDING_MODEL_NAME)
+
+    log(f"TOTAL EXECUTION TIME: {time.time() - start_total:.2f}s")
+
+
+if __name__ == "__main__":
+    main()
