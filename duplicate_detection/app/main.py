@@ -6,7 +6,7 @@ import os
 
 # Load your trained duplicate detection model
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "..", "duplicate_model")
+MODEL_PATH = os.path.join(BASE_DIR, "..", "duplicate_model", "sbert")
 model = SentenceTransformer(MODEL_PATH)
 
 # FastAPI app
@@ -34,35 +34,32 @@ class DuplicateCheckResponse(BaseModel):
 def home():
     return {"message": "Duplicate Detection API is running"}
 
-
 @app.post("/check", response_model=DuplicateCheckResponse)
 def check_duplicate(payload: DuplicateCheckRequest):
-    """
-    Compare an incoming complaint against previously stored complaints.
-    The service is stateless: the caller provides the complaints to compare with.
-    """
-    if not payload.existing_complaints:
-        return DuplicateCheckResponse(is_duplicate=False, similarity=0.0, matched_id=None)
+    try:
+        if not payload.existing_complaints:
+            return DuplicateCheckResponse(is_duplicate=False, similarity=0.0, matched_id=None)
 
-    existing_texts = [item.text for item in payload.existing_complaints]
-    embeddings = model.encode(existing_texts + [payload.text], convert_to_tensor=True)
+        existing_texts = [item.text for item in payload.existing_complaints]
+        embeddings = model.encode(existing_texts + [payload.text], convert_to_tensor=True)
 
-    new_embedding = embeddings[-1]
-    existing_embeddings = embeddings[:-1]
+        new_embedding = embeddings[-1]
+        existing_embeddings = embeddings[:-1]
 
-    cosine_scores = util.cos_sim(new_embedding, existing_embeddings)
-    max_score = float(cosine_scores.max())
+        cosine_scores = util.cos_sim(new_embedding, existing_embeddings)
+        max_score = float(cosine_scores.max())
 
-    print(f"New Complaint: {payload.text}")
-    print(f"Max Similarity Score: {max_score}, Threshold: {payload.threshold}")
+        if max_score >= payload.threshold:
+            best_match_index = int(cosine_scores.argmax())
+            matched_id = payload.existing_complaints[best_match_index].id
 
-    if max_score >= payload.threshold:
-        best_match_index = int(cosine_scores.argmax())
-        matched_id = payload.existing_complaints[best_match_index].id
-        return DuplicateCheckResponse(
-            is_duplicate=True,
-            similarity=max_score,
-            matched_id=matched_id,
-        )
+            return DuplicateCheckResponse(
+                is_duplicate=True,
+                similarity=max_score,
+                matched_id=matched_id,
+            )
 
-    return DuplicateCheckResponse(is_duplicate=False, similarity=max_score, matched_id=None)
+        return DuplicateCheckResponse(is_duplicate=False, similarity=max_score, matched_id=None)
+
+    except Exception as e:
+        return {"error": str(e)}
