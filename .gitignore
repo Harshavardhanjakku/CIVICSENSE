@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Models (global ignore)
+models/
+*.pkl
+*.safetensors
+
+# OS files
+.DS_Store
+Thumbs.db
